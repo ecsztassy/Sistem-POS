@@ -1,0 +1,6 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 64 64">
+  <title>ritel.</title>
+  <rect width="64" height="64" rx="16" fill="#16765a"/>
+  <path d="M16 46V19h10v5c3-4 6-6 12-6v10c-8-1-12 2-12 10v8z" fill="#fff"/>
+  <circle cx="45" cy="42" r="5" fill="#8ed9b4"/>
+</svg>

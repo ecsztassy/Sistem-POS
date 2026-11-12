@@ -1,0 +1,1 @@
+<!DOCTYPE html><html lang="id"><head><meta charset="utf-8"><style>@page{margin:10px}body{font:9px DejaVu Sans,sans-serif;color:#000}h1{font-size:14px;margin:5px}table{width:100%;border-collapse:collapse}td{padding:3px 0}hr{border:0;border-top:1px dashed #555;margin:8px 0}</style></head><body>@include('pos.receipt-content')</body></html>
